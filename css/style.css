@@ -1,0 +1,46 @@
+html{
+    font-size: 1rem;
+    font-family:'Mingzat', sans-serif;
+    background: linear-gradient(rgb(121, 167, 167), rgb(109, 136, 194));
+    height:100vh;
+    
+}
+header{
+    margin-bottom: 30px;
+    text-align: center;
+}
+select{
+    font-size: 1.25rem;
+    font-family: 'Gentium Book Plus', serif;
+    color:rgb(75, 13, 13);
+
+}
+.section-container{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10vw;
+    padding-right:10vw;
+
+}
+.column{
+    flex:1;
+    /* or justify-content: space-evenly */
+    
+}
+img{
+    max-width: 900px;
+    max-height: 600ox;
+}
+span{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.3rem;
+
+}
+#Dog-View{
+    font-size: 2rem;
+    text-decoration: none;
+}
+#left-column{
+    text-align: center;
+}
