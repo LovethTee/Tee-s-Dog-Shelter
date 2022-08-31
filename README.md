@@ -4,15 +4,16 @@
 This project shows the various dogs available in Tee's Dog shelter, their given names, likes, dislikes and funfact about them.
 
 <br>
-##Link to project:[]
+##Link to project:[https://tees-doggie-shelter.netlify.app/]
 </br>
 
 <br>
 ##Screenshot:
 
 ![Alt Text](https://user-images.githubusercontent.com/102753233/187749940-7ab0483a-b108-44bf-926f-0e0f9f8234c3.png)
-
-<iframe src="https://giphy.com/embed/raNUayIxvbTSiZ4ZQ6" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raNUayIxvbTSiZ4ZQ6">via GIPHY</a></p>
+<a href="LINK_TO_REPO">
+  <img src="https://media.giphy.com/media/raNUayIxvbTSiZ4ZQ6/giphy.gif" alt="Gif" width="150" height="150">
+</a>
 
 </br>
 
