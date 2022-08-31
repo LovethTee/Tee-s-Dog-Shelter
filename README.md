@@ -1,7 +1,7 @@
 # **Tee-s-Dog-Shelter**
 ***
 
-This project shows the various dogs available in Tee's Dog shelter, their given names, likes, dislikes and funfact about them.
+<p>This project shows the various dogs available in Tee's Dog shelter, their given names, likes, dislikes and funfact about them.</p>
 ---
 <h3>Link to project:</h3>[https://tees-doggie-shelter.netlify.app/]
 ---
